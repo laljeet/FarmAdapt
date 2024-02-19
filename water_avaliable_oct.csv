@@ -1,0 +1,718 @@
+"","Crop","Acres","fips","name","state","Name","Demand","Avg_water_use"
+"1","Pistachios",5.6,"04001","Apache County","AZ","ARIZONA",4,22.4
+"2","Dbl Crop Oats_Corn",2.2,"04001","Apache County","AZ","ARIZONA",NA,NA
+"3","Corn",1.1,"04001","Apache County","AZ","ARIZONA",4.7,5.17
+"4","Alfalfa",20827.9,"04003","Cochise County","AZ","ARIZONA",5.8,120801.82
+"5","Corn",16914.4,"04003","Cochise County","AZ","ARIZONA",4.7,79497.68
+"6","Pecans",14078.5,"04003","Cochise County","AZ","ARIZONA",5,70392.5
+"7","Winter Wheat",10757.9,"04003","Cochise County","AZ","ARIZONA",3.6,38728.44
+"8","Cotton",4338.9,"04003","Cochise County","AZ","ARIZONA",4.6,19958.94
+"9","Sorghum",2275.8,"04003","Cochise County","AZ","ARIZONA",4.4,10013.52
+"10","Dbl Crop Oats_Corn",2227.3,"04003","Cochise County","AZ","ARIZONA",NA,NA
+"11","Pecans",8.5,"04005","Coconino County","AZ","ARIZONA",5,42.5
+"12","Alfalfa",6.7,"04005","Coconino County","AZ","ARIZONA",5.8,38.86
+"13","Alfalfa",430.1,"04007","Gila County","AZ","ARIZONA",5.8,2494.58
+"14","Cotton",24279.7,"04009","Graham County","AZ","ARIZONA",4.6,111686.62
+"15","Alfalfa",7295,"04009","Graham County","AZ","ARIZONA",5.8,42311
+"16","Dbl Crop Oats_Corn",3955.7,"04009","Graham County","AZ","ARIZONA",NA,NA
+"17","Corn",2607.1,"04009","Graham County","AZ","ARIZONA",4.7,12253.37
+"18","Winter Wheat",2481.5,"04009","Graham County","AZ","ARIZONA",3.6,8933.4
+"19","Dry Beans",1818.3,"04009","Graham County","AZ","ARIZONA",2.3,4182.09
+"20","Alfalfa",1301.7,"04011","Greenlee County","AZ","ARIZONA",5.8,7549.86
+"21","Pecans",1004.1,"04011","Greenlee County","AZ","ARIZONA",5,5020.5
+"22","Cotton",911.8,"04011","Greenlee County","AZ","ARIZONA",4.6,4194.28
+"23","Other Hay_Non Alfalfa",487.3,"04011","Greenlee County","AZ","ARIZONA",3.3,1608.09
+"24","Barley",153,"04011","Greenlee County","AZ","ARIZONA",4.8,734.4
+"25","Alfalfa",76956.6,"04012","La Paz County","AZ","ARIZONA",5.8,446348.28
+"26","Cotton",9338.1,"04012","La Paz County","AZ","ARIZONA",4.6,42955.26
+"27","Other Hay_Non Alfalfa",5169.6,"04012","La Paz County","AZ","ARIZONA",3.3,17059.68
+"28","Alfalfa",153896.2,"04013","Maricopa County","AZ","ARIZONA",5.8,892597.96
+"29","Cotton",17226,"04013","Maricopa County","AZ","ARIZONA",4.6,79239.6
+"30","Winter Wheat",14983.4,"04013","Maricopa County","AZ","ARIZONA",3.6,53940.24
+"31","Corn",11479.1,"04013","Maricopa County","AZ","ARIZONA",4.7,53951.77
+"32","Millet",7033.9,"04013","Maricopa County","AZ","ARIZONA",4.4,30949.16
+"33","Barley",6462.1,"04013","Maricopa County","AZ","ARIZONA",4.8,31018.08
+"34","Other Hay_Non Alfalfa",4780.4,"04013","Maricopa County","AZ","ARIZONA",3.3,15775.32
+"35","Alfalfa",15774,"04015","Mohave County","AZ","ARIZONA",5.8,91489.2
+"36","Cotton",2762.6,"04015","Mohave County","AZ","ARIZONA",4.6,12707.96
+"37","Winter Wheat",1388.4,"04015","Mohave County","AZ","ARIZONA",3.6,4998.24
+"38","Dbl Crop Oats_Corn",57.4,"04017","Navajo County","AZ","ARIZONA",NA,NA
+"39","Cotton",11034.1,"04019","Pima County","AZ","ARIZONA",4.6,50756.86
+"40","Winter Wheat",6198.4,"04019","Pima County","AZ","ARIZONA",3.6,22314.24
+"41","Alfalfa",5815.2,"04019","Pima County","AZ","ARIZONA",5.8,33728.16
+"42","Alfalfa",98486.4,"04021","Pinal County","AZ","ARIZONA",5.8,571221.12
+"43","Cotton",94787.3,"04021","Pinal County","AZ","ARIZONA",4.6,436021.58
+"44","Winter Wheat",19417.5,"04021","Pinal County","AZ","ARIZONA",3.6,69903
+"45","Corn",15772.9,"04021","Pinal County","AZ","ARIZONA",4.7,74132.63
+"46","Other Hay_Non Alfalfa",4463,"04021","Pinal County","AZ","ARIZONA",3.3,14727.9
+"47","Alfalfa",810.2,"04023","Santa Cruz County","AZ","ARIZONA",5.8,4699.16
+"48","Other Hay_Non Alfalfa",262,"04023","Santa Cruz County","AZ","ARIZONA",3.3,864.6
+"49","Pistachios",209.9,"04023","Santa Cruz County","AZ","ARIZONA",4,839.6
+"50","Alfalfa",1611,"04025","Yavapai County","AZ","ARIZONA",5.8,9343.8
+"51","Winter Wheat",141.2,"04025","Yavapai County","AZ","ARIZONA",3.6,508.32
+"52","Dbl Crop Oats_Corn",114.3,"04025","Yavapai County","AZ","ARIZONA",NA,NA
+"53","Alfalfa",45670.5,"04027","Yuma County","AZ","ARIZONA",5.8,264888.9
+"54","Other Hay_Non Alfalfa",14447.9,"04027","Yuma County","AZ","ARIZONA",3.3,47678.07
+"55","Winter Wheat",937.2,"06001","Alameda County","CA","CALIFORNIA",2.3,2155.56
+"56","Alfalfa",691.4,"06001","Alameda County","CA","CALIFORNIA",3.7,2558.18
+"57","Oats",488.8,"06001","Alameda County","CA","CALIFORNIA",1.7,830.96
+"58","Grapes",350.3,"06001","Alameda County","CA","CALIFORNIA",1.5,525.45
+"59","Other Hay_Non Alfalfa",335.1,"06001","Alameda County","CA","CALIFORNIA",2.8,938.28
+"60","Other Hay_Non Alfalfa",191.3,"06003","Alpine County","CA","CALIFORNIA",2.8,535.64
+"61","Alfalfa",189.3,"06003","Alpine County","CA","CALIFORNIA",3.7,700.41
+"62","Other Hay_Non Alfalfa",926.7,"06005","Amador County","CA","CALIFORNIA",2.8,2594.76
+"63","Winter Wheat",736.3,"06005","Amador County","CA","CALIFORNIA",2.3,1693.49
+"64","Grapes",733.7,"06005","Amador County","CA","CALIFORNIA",1.5,1100.55
+"65","Alfalfa",723,"06005","Amador County","CA","CALIFORNIA",3.7,2675.1
+"66","Walnuts",226.2,"06005","Amador County","CA","CALIFORNIA",3.5,791.7
+"67","Rice",82700.1,"06007","Butte County","CA","CALIFORNIA",4.7,388690.47
+"68","Walnuts",69530.6,"06007","Butte County","CA","CALIFORNIA",3.5,243357.1
+"69","Almonds",30149.4,"06007","Butte County","CA","CALIFORNIA",4.1,123612.54
+"70","Walnuts",431.9,"06009","Calaveras County","CA","CALIFORNIA",3.5,1511.65
+"71","Almonds",61.2,"06009","Calaveras County","CA","CALIFORNIA",4.1,250.92
+"72","Grapes",53.4,"06009","Calaveras County","CA","CALIFORNIA",1.5,80.1
+"73","Alfalfa",39.1,"06009","Calaveras County","CA","CALIFORNIA",3.7,144.67
+"74","Other Hay_Non Alfalfa",21.6,"06009","Calaveras County","CA","CALIFORNIA",2.8,60.48
+"75","Rice",128478.1,"06011","Colusa County","CA","CALIFORNIA",4.7,603847.07
+"76","Almonds",64367.7,"06011","Colusa County","CA","CALIFORNIA",4.1,263907.57
+"77","Walnuts",28996,"06011","Colusa County","CA","CALIFORNIA",3.5,101486
+"78","Tomatoes",10252.4,"06011","Colusa County","CA","CALIFORNIA",2.3,23580.52
+"79","Alfalfa",8980.1,"06011","Colusa County","CA","CALIFORNIA",3.7,33226.37
+"80","Winter Wheat",7758,"06011","Colusa County","CA","CALIFORNIA",2.3,17843.4
+"81","Alfalfa",14672.5,"06013","Contra Costa County","CA","CALIFORNIA",3.7,54288.25
+"82","Corn",8194.4,"06013","Contra Costa County","CA","CALIFORNIA",3,24583.2
+"83","Winter Wheat",6592.2,"06013","Contra Costa County","CA","CALIFORNIA",2.3,15162.06
+"84","Grapes",3809.6,"06013","Contra Costa County","CA","CALIFORNIA",1.5,5714.4
+"85","Safflower",3671.7,"06013","Contra Costa County","CA","CALIFORNIA",1.5,5507.55
+"86","Other Hay_Non Alfalfa",1491.2,"06013","Contra Costa County","CA","CALIFORNIA",2.8,4175.36
+"87","Tomatoes",1028.4,"06013","Contra Costa County","CA","CALIFORNIA",2.3,2365.32
+"88","Winter Wheat",8.2,"06015","Del Norte County","CA","CALIFORNIA",2.3,18.86
+"89","Other Hay_Non Alfalfa",3.3,"06015","Del Norte County","CA","CALIFORNIA",2.8,9.24
+"90","Grapes",514.8,"06017","El Dorado County","CA","CALIFORNIA",1.5,772.2
+"91","Alfalfa",119,"06017","El Dorado County","CA","CALIFORNIA",3.7,440.3
+"92","Walnuts",59.8,"06017","El Dorado County","CA","CALIFORNIA",3.5,209.3
+"93","Other Hay_Non Alfalfa",48.3,"06017","El Dorado County","CA","CALIFORNIA",2.8,135.24
+"94","Almonds",273117.5,"06019","Fresno County","CA","CALIFORNIA",4.1,1119781.75
+"95","Grapes",231752.8,"06019","Fresno County","CA","CALIFORNIA",1.5,347629.2
+"96","Pistachios",105854.5,"06019","Fresno County","CA","CALIFORNIA",4,423418
+"97","Winter Wheat",104942.7,"06019","Fresno County","CA","CALIFORNIA",2.3,241368.21
+"98","Cotton",67518.3,"06019","Fresno County","CA","CALIFORNIA",3.2,216058.56
+"99","Alfalfa",66028.3,"06019","Fresno County","CA","CALIFORNIA",3.7,244304.71
+"100","Tomatoes",50930.6,"06019","Fresno County","CA","CALIFORNIA",2.3,117140.38
+"101","Walnuts",33889.4,"06019","Fresno County","CA","CALIFORNIA",3.5,118612.9
+"102","Dbl Crop WinWht_Corn",25177.3,"06019","Fresno County","CA","CALIFORNIA",NA,NA
+"103","Rice",81920.2,"06021","Glenn County","CA","CALIFORNIA",4.7,385024.94
+"104","Almonds",53068.9,"06021","Glenn County","CA","CALIFORNIA",4.1,217582.49
+"105","Walnuts",48810.5,"06021","Glenn County","CA","CALIFORNIA",3.5,170836.75
+"106","Alfalfa",11997.1,"06021","Glenn County","CA","CALIFORNIA",3.7,44389.27
+"107","Other Hay_Non Alfalfa",10350.7,"06021","Glenn County","CA","CALIFORNIA",2.8,28981.96
+"108","Winter Wheat",6529.3,"06021","Glenn County","CA","CALIFORNIA",2.3,15017.39
+"109","Other Hay_Non Alfalfa",9041.7,"06023","Humboldt County","CA","CALIFORNIA",2.8,25316.76
+"110","Corn",1224.9,"06023","Humboldt County","CA","CALIFORNIA",3,3674.7
+"111","Alfalfa",182284,"06025","Imperial County","CA","CALIFORNIA",3.7,674450.8
+"112","Other Hay_Non Alfalfa",52009.2,"06025","Imperial County","CA","CALIFORNIA",2.8,145625.76
+"113","Winter Wheat",19278.5,"06025","Imperial County","CA","CALIFORNIA",2.3,44340.55
+"114","Alfalfa",2708.8,"06027","Inyo County","CA","CALIFORNIA",3.7,10022.56
+"115","Winter Wheat",108.3,"06027","Inyo County","CA","CALIFORNIA",2.3,249.09
+"116","Almonds",247455.2,"06029","Kern County","CA","CALIFORNIA",4.1,1014566.32
+"117","Pistachios",145186.8,"06029","Kern County","CA","CALIFORNIA",4,580747.2
+"118","Grapes",92678.7,"06029","Kern County","CA","CALIFORNIA",1.5,139018.05
+"119","Alfalfa",72792.7,"06029","Kern County","CA","CALIFORNIA",3.7,269332.99
+"120","Winter Wheat",30434.5,"06029","Kern County","CA","CALIFORNIA",2.3,69999.35
+"121","Cotton",27143.5,"06029","Kern County","CA","CALIFORNIA",3.2,86859.2
+"122","Dbl Crop WinWht_Corn",23007.4,"06029","Kern County","CA","CALIFORNIA",NA,NA
+"123","Dbl Crop WinWht_Sorghum",7907,"06029","Kern County","CA","CALIFORNIA",NA,NA
+"124","Cotton",101826.5,"06031","Kings County","CA","CALIFORNIA",3.2,325844.8
+"125","Pistachios",75087.8,"06031","Kings County","CA","CALIFORNIA",4,300351.2
+"126","Winter Wheat",51637.4,"06031","Kings County","CA","CALIFORNIA",2.3,118766.02
+"127","Almonds",51280,"06031","Kings County","CA","CALIFORNIA",4.1,210248
+"128","Alfalfa",40900.4,"06031","Kings County","CA","CALIFORNIA",3.7,151331.48
+"129","Dbl Crop WinWht_Corn",38995.6,"06031","Kings County","CA","CALIFORNIA",NA,NA
+"130","Barley",31011.2,"06031","Kings County","CA","CALIFORNIA",1.7,52719.04
+"131","Walnuts",25466.6,"06031","Kings County","CA","CALIFORNIA",3.5,89133.1
+"132","Safflower",20481,"06031","Kings County","CA","CALIFORNIA",1.5,30721.5
+"133","Tomatoes",20055.1,"06031","Kings County","CA","CALIFORNIA",2.3,46126.73
+"134","Grapes",11664.8,"06031","Kings County","CA","CALIFORNIA",1.5,17497.2
+"135","Dbl Crop WinWht_Sorghum",9348.6,"06031","Kings County","CA","CALIFORNIA",NA,NA
+"136","Grapes",1719.3,"06033","Lake County","CA","CALIFORNIA",1.5,2578.95
+"137","Other Hay_Non Alfalfa",980.3,"06033","Lake County","CA","CALIFORNIA",2.8,2744.84
+"138","Almonds",346,"06033","Lake County","CA","CALIFORNIA",4.1,1418.6
+"139","Alfalfa",312.2,"06033","Lake County","CA","CALIFORNIA",3.7,1155.14
+"140","Walnuts",190.1,"06033","Lake County","CA","CALIFORNIA",3.5,665.35
+"141","Alfalfa",43353.2,"06035","Lassen County","CA","CALIFORNIA",3.7,160406.84
+"142","Other Hay_Non Alfalfa",18867.3,"06035","Lassen County","CA","CALIFORNIA",2.8,52828.44
+"143","Winter Wheat",2838.2,"06035","Lassen County","CA","CALIFORNIA",2.3,6527.86
+"144","Alfalfa",3045.2,"06037","Los Angeles County","CA","CALIFORNIA",3.7,11267.24
+"145","Other Hay_Non Alfalfa",1319,"06037","Los Angeles County","CA","CALIFORNIA",2.8,3693.2
+"146","Barley",850.2,"06037","Los Angeles County","CA","CALIFORNIA",1.7,1445.34
+"147","Almonds",131510,"06039","Madera County","CA","CALIFORNIA",4.1,539191
+"148","Grapes",105923.7,"06039","Madera County","CA","CALIFORNIA",1.5,158885.55
+"149","Pistachios",43379,"06039","Madera County","CA","CALIFORNIA",4,173516
+"150","Alfalfa",20323.8,"06039","Madera County","CA","CALIFORNIA",3.7,75198.06
+"151","Winter Wheat",15349.9,"06039","Madera County","CA","CALIFORNIA",2.3,35304.77
+"152","Dbl Crop WinWht_Corn",12633.1,"06039","Madera County","CA","CALIFORNIA",NA,NA
+"153","Oats",3736.7,"06041","Marin County","CA","CALIFORNIA",1.7,6352.39
+"154","Pistachios",43.4,"06043","Mariposa County","CA","CALIFORNIA",4,173.6
+"155","Almonds",31.4,"06043","Mariposa County","CA","CALIFORNIA",4.1,128.74
+"156","Grapes",28.9,"06043","Mariposa County","CA","CALIFORNIA",1.5,43.35
+"157","Winter Wheat",19.8,"06043","Mariposa County","CA","CALIFORNIA",2.3,45.54
+"158","Walnuts",10.9,"06043","Mariposa County","CA","CALIFORNIA",3.5,38.15
+"159","Other Hay_Non Alfalfa",7738.9,"06045","Mendocino County","CA","CALIFORNIA",2.8,21668.92
+"160","Grapes",2286,"06045","Mendocino County","CA","CALIFORNIA",1.5,3429
+"161","Almonds",146865.6,"06047","Merced County","CA","CALIFORNIA",4.1,602148.96
+"162","Alfalfa",97328.3,"06047","Merced County","CA","CALIFORNIA",3.7,360114.71
+"163","Winter Wheat",56714.4,"06047","Merced County","CA","CALIFORNIA",2.3,130443.12
+"164","Cotton",41564.7,"06047","Merced County","CA","CALIFORNIA",3.2,133007.04
+"165","Dbl Crop Oats_Corn",32732.9,"06047","Merced County","CA","CALIFORNIA",NA,NA
+"166","Dbl Crop WinWht_Corn",29201.8,"06047","Merced County","CA","CALIFORNIA",NA,NA
+"167","Grapes",25035.6,"06047","Merced County","CA","CALIFORNIA",1.5,37553.4
+"168","Pistachios",23793.3,"06047","Merced County","CA","CALIFORNIA",4,95173.2
+"169","Oats",13749.5,"06047","Merced County","CA","CALIFORNIA",1.7,23374.15
+"170","Other Hay_Non Alfalfa",11806.7,"06047","Merced County","CA","CALIFORNIA",2.8,33058.76
+"171","Alfalfa",68683.5,"06049","Modoc County","CA","CALIFORNIA",3.7,254128.95
+"172","Other Hay_Non Alfalfa",36524.1,"06049","Modoc County","CA","CALIFORNIA",2.8,102267.48
+"173","Barley",9095.1,"06049","Modoc County","CA","CALIFORNIA",1.7,15461.67
+"174","Winter Wheat",5403.3,"06049","Modoc County","CA","CALIFORNIA",2.3,12427.59
+"175","Triticale",4517.5,"06049","Modoc County","CA","CALIFORNIA",1.2,5421
+"176","Alfalfa",3787.8,"06051","Mono County","CA","CALIFORNIA",3.7,14014.86
+"177","Grapes",71215.7,"06053","Monterey County","CA","CALIFORNIA",1.5,106823.55
+"178","Other Hay_Non Alfalfa",5981.5,"06053","Monterey County","CA","CALIFORNIA",2.8,16748.2
+"179","Alfalfa",5408,"06053","Monterey County","CA","CALIFORNIA",3.7,20009.6
+"180","Oats",4215.5,"06053","Monterey County","CA","CALIFORNIA",1.7,7166.35
+"181","Winter Wheat",4133,"06053","Monterey County","CA","CALIFORNIA",2.3,9505.9
+"182","Barley",4017.8,"06053","Monterey County","CA","CALIFORNIA",1.7,6830.26
+"183","Almonds",2833.3,"06053","Monterey County","CA","CALIFORNIA",4.1,11616.53
+"184","Walnuts",1813.4,"06053","Monterey County","CA","CALIFORNIA",3.5,6346.9
+"185","Grapes",35933.2,"06055","Napa County","CA","CALIFORNIA",1.5,53899.8
+"186","Other Hay_Non Alfalfa",25.1,"06057","Nevada County","CA","CALIFORNIA",2.8,70.28
+"187","Alfalfa",7.6,"06057","Nevada County","CA","CALIFORNIA",3.7,28.12
+"188","Oats",8.2,"06059","Orange County","CA","CALIFORNIA",1.7,13.94
+"189","Alfalfa",3.8,"06059","Orange County","CA","CALIFORNIA",3.7,14.06
+"190","Other Hay_Non Alfalfa",1.3,"06059","Orange County","CA","CALIFORNIA",2.8,3.64
+"191","Rice",7512.7,"06061","Placer County","CA","CALIFORNIA",4.7,35309.69
+"192","Other Hay_Non Alfalfa",3410.9,"06061","Placer County","CA","CALIFORNIA",2.8,9550.52
+"193","Winter Wheat",1807.4,"06061","Placer County","CA","CALIFORNIA",2.3,4157.02
+"194","Walnuts",1734.7,"06061","Placer County","CA","CALIFORNIA",3.5,6071.45
+"195","Alfalfa",1430.9,"06061","Placer County","CA","CALIFORNIA",3.7,5294.33
+"196","Alfalfa",13781.6,"06063","Plumas County","CA","CALIFORNIA",3.7,50991.92
+"197","Other Hay_Non Alfalfa",1885.5,"06063","Plumas County","CA","CALIFORNIA",2.8,5279.4
+"198","Alfalfa",47435.9,"06065","Riverside County","CA","CALIFORNIA",3.7,175512.83
+"199","Winter Wheat",38044.4,"06065","Riverside County","CA","CALIFORNIA",2.3,87502.12
+"200","Grapes",12682.5,"06065","Riverside County","CA","CALIFORNIA",1.5,19023.75
+"201","Cotton",4512.8,"06065","Riverside County","CA","CALIFORNIA",3.2,14440.96
+"202","Alfalfa",34200.3,"06067","Sacramento County","CA","CALIFORNIA",3.7,126541.11
+"203","Other Hay_Non Alfalfa",29512.7,"06067","Sacramento County","CA","CALIFORNIA",2.8,82635.56
+"204","Grapes",28839.7,"06067","Sacramento County","CA","CALIFORNIA",1.5,43259.55
+"205","Corn",16815.5,"06067","Sacramento County","CA","CALIFORNIA",3,50446.5
+"206","Winter Wheat",10305.3,"06067","Sacramento County","CA","CALIFORNIA",2.3,23702.19
+"207","Rice",6133.2,"06067","Sacramento County","CA","CALIFORNIA",4.7,28826.04
+"208","Oats",5476.7,"06067","Sacramento County","CA","CALIFORNIA",1.7,9310.39
+"209","Safflower",4538.9,"06067","Sacramento County","CA","CALIFORNIA",1.5,6808.35
+"210","Walnuts",4441.9,"06067","Sacramento County","CA","CALIFORNIA",3.5,15546.65
+"211","Grapes",1732.7,"06069","San Benito County","CA","CALIFORNIA",1.5,2599.05
+"212","Oats",1509.8,"06069","San Benito County","CA","CALIFORNIA",1.7,2566.66
+"213","Winter Wheat",1014.1,"06069","San Benito County","CA","CALIFORNIA",2.3,2332.43
+"214","Alfalfa",793.3,"06069","San Benito County","CA","CALIFORNIA",3.7,2935.21
+"215","Other Hay_Non Alfalfa",623.6,"06069","San Benito County","CA","CALIFORNIA",2.8,1746.08
+"216","Walnuts",574.4,"06069","San Benito County","CA","CALIFORNIA",3.5,2010.4
+"217","Safflower",571.1,"06069","San Benito County","CA","CALIFORNIA",1.5,856.65
+"218","Corn",543.8,"06069","San Benito County","CA","CALIFORNIA",3,1631.4
+"219","Barley",452.1,"06069","San Benito County","CA","CALIFORNIA",1.7,768.57
+"220","Alfalfa",3949.7,"06071","San Bernardino County","CA","CALIFORNIA",3.7,14613.89
+"221","Winter Wheat",299.3,"06071","San Bernardino County","CA","CALIFORNIA",2.3,688.39
+"222","Winter Wheat",590.5,"06073","San Diego County","CA","CALIFORNIA",2.3,1358.15
+"223","Alfalfa",322,"06073","San Diego County","CA","CALIFORNIA",3.7,1191.4
+"224","Other Hay_Non Alfalfa",7.6,"06075","San Francisco County","CA","CALIFORNIA",2.8,21.28
+"225","Oats",0.4,"06075","San Francisco County","CA","CALIFORNIA",1.7,0.68
+"226","Walnuts",111222.9,"06077","San Joaquin County","CA","CALIFORNIA",3.5,389280.15
+"227","Alfalfa",97452.9,"06077","San Joaquin County","CA","CALIFORNIA",3.7,360575.73
+"228","Grapes",89874.1,"06077","San Joaquin County","CA","CALIFORNIA",1.5,134811.15
+"229","Almonds",66685.7,"06077","San Joaquin County","CA","CALIFORNIA",4.1,273411.37
+"230","Winter Wheat",37962.3,"06077","San Joaquin County","CA","CALIFORNIA",2.3,87313.29
+"231","Corn",31680.3,"06077","San Joaquin County","CA","CALIFORNIA",3,95040.9
+"232","Oats",16857.5,"06077","San Joaquin County","CA","CALIFORNIA",1.7,28657.75
+"233","Other Hay_Non Alfalfa",15302.1,"06077","San Joaquin County","CA","CALIFORNIA",2.8,42845.88
+"234","Safflower",14050,"06077","San Joaquin County","CA","CALIFORNIA",1.5,21075
+"235","Grapes",49119.9,"06079","San Luis Obispo County","CA","CALIFORNIA",1.5,73679.85
+"236","Barley",10065.1,"06079","San Luis Obispo County","CA","CALIFORNIA",1.7,17110.67
+"237","Other Hay_Non Alfalfa",8547.7,"06079","San Luis Obispo County","CA","CALIFORNIA",2.8,23933.56
+"238","Alfalfa",3675.7,"06079","San Luis Obispo County","CA","CALIFORNIA",3.7,13600.09
+"239","Oats",3299,"06079","San Luis Obispo County","CA","CALIFORNIA",1.7,5608.3
+"240","Dry Beans",2391,"06079","San Luis Obispo County","CA","CALIFORNIA",2.2,5260.2
+"241","Alfalfa",408.8,"06081","San Mateo County","CA","CALIFORNIA",3.7,1512.56
+"242","Other Hay_Non Alfalfa",147.2,"06081","San Mateo County","CA","CALIFORNIA",2.8,412.16
+"243","Winter Wheat",111.2,"06081","San Mateo County","CA","CALIFORNIA",2.3,255.76
+"244","Walnuts",70.7,"06081","San Mateo County","CA","CALIFORNIA",3.5,247.45
+"245","Oats",40.9,"06081","San Mateo County","CA","CALIFORNIA",1.7,69.53
+"246","Triticale",38,"06081","San Mateo County","CA","CALIFORNIA",1.2,45.6
+"247","Almonds",26.5,"06081","San Mateo County","CA","CALIFORNIA",4.1,108.65
+"248","Grapes",22888.6,"06083","Santa Barbara County","CA","CALIFORNIA",1.5,34332.9
+"249","Other Hay_Non Alfalfa",4220.6,"06083","Santa Barbara County","CA","CALIFORNIA",2.8,11817.68
+"250","Dry Beans",3904.6,"06083","Santa Barbara County","CA","CALIFORNIA",2.2,8590.12
+"251","Alfalfa",3407.1,"06083","Santa Barbara County","CA","CALIFORNIA",3.7,12606.27
+"252","Oats",1094.8,"06083","Santa Barbara County","CA","CALIFORNIA",1.7,1861.16
+"253","Barley",1007,"06083","Santa Barbara County","CA","CALIFORNIA",1.7,1711.9
+"254","Dbl Crop WinWht_Corn",925.6,"06083","Santa Barbara County","CA","CALIFORNIA",NA,NA
+"255","Winter Wheat",902.7,"06083","Santa Barbara County","CA","CALIFORNIA",2.3,2076.21
+"256","Oats",1437.6,"06085","Santa Clara County","CA","CALIFORNIA",1.7,2443.92
+"257","Grapes",854.9,"06085","Santa Clara County","CA","CALIFORNIA",1.5,1282.35
+"258","Other Hay_Non Alfalfa",523.7,"06085","Santa Clara County","CA","CALIFORNIA",2.8,1466.36
+"259","Alfalfa",432.8,"06085","Santa Clara County","CA","CALIFORNIA",3.7,1601.36
+"260","Dry Beans",225.1,"06085","Santa Clara County","CA","CALIFORNIA",2.2,495.22
+"261","Winter Wheat",223.3,"06085","Santa Clara County","CA","CALIFORNIA",2.3,513.59
+"262","Safflower",190.1,"06085","Santa Clara County","CA","CALIFORNIA",1.5,285.15
+"263","Tomatoes",180.1,"06085","Santa Clara County","CA","CALIFORNIA",2.3,414.23
+"264","Alfalfa",288.4,"06087","Santa Cruz County","CA","CALIFORNIA",3.7,1067.08
+"265","Winter Wheat",223.1,"06087","Santa Cruz County","CA","CALIFORNIA",2.3,513.13
+"266","Oats",206.8,"06087","Santa Cruz County","CA","CALIFORNIA",1.7,351.56
+"267","Other Hay_Non Alfalfa",102.1,"06087","Santa Cruz County","CA","CALIFORNIA",2.8,285.88
+"268","Grapes",86.3,"06087","Santa Cruz County","CA","CALIFORNIA",1.5,129.45
+"269","Triticale",53.2,"06087","Santa Cruz County","CA","CALIFORNIA",1.2,63.84
+"270","Other Hay_Non Alfalfa",26616.9,"06089","Shasta County","CA","CALIFORNIA",2.8,74527.32
+"271","Alfalfa",4356.3,"06089","Shasta County","CA","CALIFORNIA",3.7,16118.31
+"272","Alfalfa",3681.7,"06091","Sierra County","CA","CALIFORNIA",3.7,13622.29
+"273","Alfalfa",119363.9,"06093","Siskiyou County","CA","CALIFORNIA",3.7,441646.43
+"274","Other Hay_Non Alfalfa",25794,"06093","Siskiyou County","CA","CALIFORNIA",2.8,72223.2
+"275","Barley",17420,"06093","Siskiyou County","CA","CALIFORNIA",1.7,29614
+"276","Alfalfa",39786.8,"06095","Solano County","CA","CALIFORNIA",3.7,147211.16
+"277","Winter Wheat",26633.1,"06095","Solano County","CA","CALIFORNIA",2.3,61256.13
+"278","Other Hay_Non Alfalfa",18319.1,"06095","Solano County","CA","CALIFORNIA",2.8,51293.48
+"279","Almonds",14307.5,"06095","Solano County","CA","CALIFORNIA",4.1,58660.75
+"280","Walnuts",9680.2,"06095","Solano County","CA","CALIFORNIA",3.5,33880.7
+"281","Safflower",9306.8,"06095","Solano County","CA","CALIFORNIA",1.5,13960.2
+"282","Triticale",7118.4,"06095","Solano County","CA","CALIFORNIA",1.2,8542.08
+"283","Tomatoes",6268.6,"06095","Solano County","CA","CALIFORNIA",2.3,14417.78
+"284","Grapes",5797.8,"06095","Solano County","CA","CALIFORNIA",1.5,8696.7
+"285","Grapes",53768.6,"06097","Sonoma County","CA","CALIFORNIA",1.5,80652.9
+"286","Oats",12114.1,"06097","Sonoma County","CA","CALIFORNIA",1.7,20593.97
+"287","Almonds",169547.5,"06099","Stanislaus County","CA","CALIFORNIA",4.1,695144.75
+"288","Alfalfa",48537.6,"06099","Stanislaus County","CA","CALIFORNIA",3.7,179589.12
+"289","Walnuts",42172.5,"06099","Stanislaus County","CA","CALIFORNIA",3.5,147603.75
+"290","Other Hay_Non Alfalfa",21296.3,"06099","Stanislaus County","CA","CALIFORNIA",2.8,59629.64
+"291","Dbl Crop Oats_Corn",15549.8,"06099","Stanislaus County","CA","CALIFORNIA",NA,NA
+"292","Dbl Crop WinWht_Corn",11498.9,"06099","Stanislaus County","CA","CALIFORNIA",NA,NA
+"293","Grapes",11057.9,"06099","Stanislaus County","CA","CALIFORNIA",1.5,16586.85
+"294","Winter Wheat",9744.9,"06099","Stanislaus County","CA","CALIFORNIA",2.3,22413.27
+"295","Oats",9296.8,"06099","Stanislaus County","CA","CALIFORNIA",1.7,15804.56
+"296","Rice",79283.2,"06101","Sutter County","CA","CALIFORNIA",4.7,372631.04
+"297","Walnuts",49529.3,"06101","Sutter County","CA","CALIFORNIA",3.5,173352.55
+"298","Alfalfa",12384.5,"06101","Sutter County","CA","CALIFORNIA",3.7,45822.65
+"299","Almonds",7637.9,"06101","Sutter County","CA","CALIFORNIA",4.1,31315.39
+"300","Corn",7526.7,"06101","Sutter County","CA","CALIFORNIA",3,22580.1
+"301","Winter Wheat",6731.4,"06101","Sutter County","CA","CALIFORNIA",2.3,15482.22
+"302","Tomatoes",5426.2,"06101","Sutter County","CA","CALIFORNIA",2.3,12480.26
+"303","Walnuts",28883.9,"06103","Tehama County","CA","CALIFORNIA",3.5,101093.65
+"304","Almonds",11589,"06103","Tehama County","CA","CALIFORNIA",4.1,47514.9
+"305","Other Hay_Non Alfalfa",7164,"06103","Tehama County","CA","CALIFORNIA",2.8,20059.2
+"306","Alfalfa",4047.8,"06103","Tehama County","CA","CALIFORNIA",3.7,14976.86
+"307","Oats",3079.7,"06103","Tehama County","CA","CALIFORNIA",1.7,5235.49
+"308","Other Hay_Non Alfalfa",61.4,"06105","Trinity County","CA","CALIFORNIA",2.8,171.92
+"309","Alfalfa",26,"06105","Trinity County","CA","CALIFORNIA",3.7,96.2
+"310","Grapes",25.8,"06105","Trinity County","CA","CALIFORNIA",1.5,38.7
+"311","Dbl Crop WinWht_Corn",102523,"06107","Tulare County","CA","CALIFORNIA",NA,NA
+"312","Almonds",102235.5,"06107","Tulare County","CA","CALIFORNIA",4.1,419165.55
+"313","Walnuts",74912.7,"06107","Tulare County","CA","CALIFORNIA",3.5,262194.45
+"314","Alfalfa",57663.6,"06107","Tulare County","CA","CALIFORNIA",3.7,213355.32
+"315","Grapes",56075.9,"06107","Tulare County","CA","CALIFORNIA",1.5,84113.85
+"316","Pistachios",49973.4,"06107","Tulare County","CA","CALIFORNIA",4,199893.6
+"317","Winter Wheat",35082.5,"06107","Tulare County","CA","CALIFORNIA",2.3,80689.75
+"318","Barley",20061.1,"06107","Tulare County","CA","CALIFORNIA",1.7,34103.87
+"319","Cotton",17859.2,"06107","Tulare County","CA","CALIFORNIA",3.2,57149.44
+"320","Winter Wheat",32.7,"06109","Tuolumne County","CA","CALIFORNIA",2.3,75.21
+"321","Alfalfa",17.3,"06109","Tuolumne County","CA","CALIFORNIA",3.7,64.01
+"322","Almonds",4.7,"06109","Tuolumne County","CA","CALIFORNIA",4.1,19.27
+"323","Other Hay_Non Alfalfa",2.2,"06109","Tuolumne County","CA","CALIFORNIA",2.8,6.16
+"324","Pistachios",1.8,"06109","Tuolumne County","CA","CALIFORNIA",4,7.2
+"325","Alfalfa",753.3,"06111","Ventura County","CA","CALIFORNIA",3.7,2787.21
+"326","Other Hay_Non Alfalfa",622.7,"06111","Ventura County","CA","CALIFORNIA",2.8,1743.56
+"327","Barley",281.6,"06111","Ventura County","CA","CALIFORNIA",1.7,478.72
+"328","Dbl Crop WinWht_Sorghum",261.3,"06111","Ventura County","CA","CALIFORNIA",NA,NA
+"329","Pistachios",145.7,"06111","Ventura County","CA","CALIFORNIA",4,582.8
+"330","Oats",117.9,"06111","Ventura County","CA","CALIFORNIA",1.7,200.43
+"331","Dbl Crop WinWht_Corn",106.5,"06111","Ventura County","CA","CALIFORNIA",NA,NA
+"332","Almonds",43665.4,"06113","Yolo County","CA","CALIFORNIA",4.1,179028.14
+"333","Alfalfa",42383.3,"06113","Yolo County","CA","CALIFORNIA",3.7,156818.21
+"334","Winter Wheat",34577.3,"06113","Yolo County","CA","CALIFORNIA",2.3,79527.79
+"335","Rice",26120.7,"06113","Yolo County","CA","CALIFORNIA",4.7,122767.29
+"336","Walnuts",22449.6,"06113","Yolo County","CA","CALIFORNIA",3.5,78573.6
+"337","Other Hay_Non Alfalfa",18870.2,"06113","Yolo County","CA","CALIFORNIA",2.8,52836.56
+"338","Grapes",18863.7,"06113","Yolo County","CA","CALIFORNIA",1.5,28295.55
+"339","Tomatoes",17697.5,"06113","Yolo County","CA","CALIFORNIA",2.3,40704.25
+"340","Safflower",9533.4,"06113","Yolo County","CA","CALIFORNIA",1.5,14300.1
+"341","Corn",4957.6,"06113","Yolo County","CA","CALIFORNIA",3,14872.8
+"342","Pistachios",4163.9,"06113","Yolo County","CA","CALIFORNIA",4,16655.6
+"343","Rice",34598.4,"06115","Yuba County","CA","CALIFORNIA",4.7,162612.48
+"344","Walnuts",22091.1,"06115","Yuba County","CA","CALIFORNIA",3.5,77318.85
+"345","Alfalfa",3735.1,"06115","Yuba County","CA","CALIFORNIA",3.7,13819.87
+"346","Almonds",1896.1,"06115","Yuba County","CA","CALIFORNIA",4.1,7774.01
+"347","Winter Wheat",177734.7,"08001","Adams County","CO","COLORADO",1.2,213281.64
+"348","Corn",32068,"08001","Adams County","CO","COLORADO",1.7,54515.6
+"349","Alfalfa",10615.8,"08001","Adams County","CO","COLORADO",1.8,19108.44
+"350","Alfalfa",29638.3,"08003","Alamosa County","CO","COLORADO",1.8,53348.94
+"351","Barley",12452.3,"08003","Alamosa County","CO","COLORADO",1.5,18678.45
+"352","Winter Wheat",61517.3,"08005","Arapahoe County","CO","COLORADO",1.2,73820.76
+"353","Corn",9392.2,"08005","Arapahoe County","CO","COLORADO",1.7,15966.74
+"354","Sorghum",2844.2,"08005","Arapahoe County","CO","COLORADO",1.3,3697.46
+"355","Alfalfa",2609.4,"08007","Archuleta County","CO","COLORADO",1.8,4696.92
+"356","Other Hay_Non Alfalfa",391.6,"08007","Archuleta County","CO","COLORADO",1.4,548.24
+"357","Winter Wheat",191255.2,"08009","Baca County","CO","COLORADO",1.2,229506.24
+"358","Sorghum",93993.5,"08009","Baca County","CO","COLORADO",1.3,122191.55
+"359","Corn",71523.5,"08009","Baca County","CO","COLORADO",1.7,121589.95
+"360","Triticale",23600.5,"08009","Baca County","CO","COLORADO",1.2,28320.6
+"361","Alfalfa",26639.8,"08011","Bent County","CO","COLORADO",1.8,47951.64
+"362","Corn",15572.1,"08011","Bent County","CO","COLORADO",1.7,26472.57
+"363","Winter Wheat",13456.7,"08011","Bent County","CO","COLORADO",1.2,16148.04
+"364","Sorghum",7006.1,"08011","Bent County","CO","COLORADO",1.3,9107.93
+"365","Other Hay_Non Alfalfa",18881.1,"08013","Boulder County","CO","COLORADO",1.4,26433.54
+"366","Alfalfa",10463.4,"08013","Boulder County","CO","COLORADO",1.8,18834.12
+"367","Corn",3737.3,"08013","Boulder County","CO","COLORADO",1.7,6353.41
+"368","Winter Wheat",3720,"08013","Boulder County","CO","COLORADO",1.2,4464
+"369","Winter Wheat",1224.3,"08014","Broomfield County","CO","COLORADO",1.2,1469.16
+"370","Alfalfa",318.7,"08014","Broomfield County","CO","COLORADO",1.8,573.66
+"371","Other Hay_Non Alfalfa",261.8,"08014","Broomfield County","CO","COLORADO",1.4,366.52
+"372","Other Hay_Non Alfalfa",6280.6,"08015","Chaffee County","CO","COLORADO",1.4,8792.84
+"373","Alfalfa",4809.5,"08015","Chaffee County","CO","COLORADO",1.8,8657.1
+"374","Winter Wheat",187102.6,"08017","Cheyenne County","CO","COLORADO",1.2,224523.12
+"375","Corn",73450.9,"08017","Cheyenne County","CO","COLORADO",1.7,124866.53
+"376","Sorghum",53770.8,"08017","Cheyenne County","CO","COLORADO",1.3,69902.04
+"377","Alfalfa",6.7,"08019","Clear Creek County","CO","COLORADO",1.8,12.06
+"378","Other Hay_Non Alfalfa",4.2,"08019","Clear Creek County","CO","COLORADO",1.4,5.88
+"379","Alfalfa",75621.5,"08021","Conejos County","CO","COLORADO",1.8,136118.7
+"380","Barley",5648.8,"08021","Conejos County","CO","COLORADO",1.5,8473.2
+"381","Alfalfa",25057.4,"08023","Costilla County","CO","COLORADO",1.8,45103.32
+"382","Barley",5099.5,"08023","Costilla County","CO","COLORADO",1.5,7649.25
+"383","Oats",2543.5,"08023","Costilla County","CO","COLORADO",1.5,3815.25
+"384","Alfalfa",5476.9,"08025","Crowley County","CO","COLORADO",1.8,9858.42
+"385","Sorghum",2241.5,"08025","Crowley County","CO","COLORADO",1.3,2913.95
+"386","Winter Wheat",974.1,"08025","Crowley County","CO","COLORADO",1.2,1168.92
+"387","Corn",471.7,"08025","Crowley County","CO","COLORADO",1.7,801.89
+"388","Other Hay_Non Alfalfa",24489.9,"08027","Custer County","CO","COLORADO",1.4,34285.86
+"389","Alfalfa",55815.9,"08029","Delta County","CO","COLORADO",1.8,100468.62
+"390","Corn",7616.1,"08029","Delta County","CO","COLORADO",1.7,12947.37
+"391","Other Hay_Non Alfalfa",6767.9,"08029","Delta County","CO","COLORADO",1.4,9475.06
+"392","Winter Wheat",3163.6,"08031","Denver County","CO","COLORADO",1.2,3796.32
+"393","Corn",1685.8,"08031","Denver County","CO","COLORADO",1.7,2865.86
+"394","Winter Wheat",20730.1,"08033","Dolores County","CO","COLORADO",1.2,24876.12
+"395","Alfalfa",8821.3,"08033","Dolores County","CO","COLORADO",1.8,15878.34
+"396","Dry Beans",7477.4,"08033","Dolores County","CO","COLORADO",1.3,9720.62
+"397","Alfalfa",1816.3,"08035","Douglas County","CO","COLORADO",1.8,3269.34
+"398","Winter Wheat",592.5,"08035","Douglas County","CO","COLORADO",1.2,711
+"399","Alfalfa",11049.2,"08037","Eagle County","CO","COLORADO",1.8,19888.56
+"400","Winter Wheat",35361.9,"08039","Elbert County","CO","COLORADO",1.2,42434.28
+"401","Alfalfa",17925.9,"08039","Elbert County","CO","COLORADO",1.8,32266.62
+"402","Millet",12561.7,"08039","Elbert County","CO","COLORADO",1.3,16330.21
+"403","Sorghum",7293.2,"08039","Elbert County","CO","COLORADO",1.3,9481.16
+"404","Alfalfa",7157.8,"08041","El Paso County","CO","COLORADO",1.8,12884.04
+"405","Sorghum",3292.8,"08041","El Paso County","CO","COLORADO",1.3,4280.64
+"406","Other Hay_Non Alfalfa",1285.9,"08041","El Paso County","CO","COLORADO",1.4,1800.26
+"407","Corn",566.7,"08041","El Paso County","CO","COLORADO",1.7,963.39
+"408","Winter Wheat",561.1,"08041","El Paso County","CO","COLORADO",1.2,673.32
+"409","Other Hay_Non Alfalfa",4792.2,"08043","Fremont County","CO","COLORADO",1.4,6709.08
+"410","Alfalfa",4301.3,"08043","Fremont County","CO","COLORADO",1.8,7742.34
+"411","Alfalfa",50122,"08045","Garfield County","CO","COLORADO",1.8,90219.6
+"412","Other Hay_Non Alfalfa",9.3,"08047","Gilpin County","CO","COLORADO",1.4,13.02
+"413","Other Hay_Non Alfalfa",3737.6,"08049","Grand County","CO","COLORADO",1.4,5232.64
+"414","Alfalfa",1000.8,"08049","Grand County","CO","COLORADO",1.8,1801.44
+"415","Other Hay_Non Alfalfa",23236,"08051","Gunnison County","CO","COLORADO",1.4,32530.4
+"416","Other Hay_Non Alfalfa",167,"08053","Hinsdale County","CO","COLORADO",1.4,233.8
+"417","Alfalfa",50.5,"08053","Hinsdale County","CO","COLORADO",1.8,90.9
+"418","Alfalfa",10493.7,"08055","Huerfano County","CO","COLORADO",1.8,18888.66
+"419","Other Hay_Non Alfalfa",520.8,"08057","Jackson County","CO","COLORADO",1.4,729.12
+"420","Barley",97.4,"08057","Jackson County","CO","COLORADO",1.5,146.1
+"421","Alfalfa",204.6,"08059","Jefferson County","CO","COLORADO",1.8,368.28
+"422","Other Hay_Non Alfalfa",166.6,"08059","Jefferson County","CO","COLORADO",1.4,233.24
+"423","Winter Wheat",20.7,"08059","Jefferson County","CO","COLORADO",1.2,24.84
+"424","Winter Wheat",163120,"08061","Kiowa County","CO","COLORADO",1.2,195744
+"425","Sorghum",76129.5,"08061","Kiowa County","CO","COLORADO",1.3,98968.35
+"426","Corn",25950.6,"08061","Kiowa County","CO","COLORADO",1.7,44116.02
+"427","Winter Wheat",246559.8,"08063","Kit Carson County","CO","COLORADO",1.2,295871.76
+"428","Corn",223212.6,"08063","Kit Carson County","CO","COLORADO",1.7,379461.42
+"429","Sorghum",51299.8,"08063","Kit Carson County","CO","COLORADO",1.3,66689.74
+"430","Alfalfa",0.2,"08065","Lake County","CO","COLORADO",1.8,0.36
+"431","Alfalfa",24259.7,"08067","La Plata County","CO","COLORADO",1.8,43667.46
+"432","Other Hay_Non Alfalfa",14320,"08067","La Plata County","CO","COLORADO",1.4,20048
+"433","Winter Wheat",3130.2,"08067","La Plata County","CO","COLORADO",1.2,3756.24
+"434","Other Hay_Non Alfalfa",24994,"08069","Larimer County","CO","COLORADO",1.4,34991.6
+"435","Alfalfa",18619.1,"08069","Larimer County","CO","COLORADO",1.8,33514.38
+"436","Corn",15868.3,"08069","Larimer County","CO","COLORADO",1.7,26976.11
+"437","Winter Wheat",7820.1,"08069","Larimer County","CO","COLORADO",1.2,9384.12
+"438","Alfalfa",15689.1,"08071","Las Animas County","CO","COLORADO",1.8,28240.38
+"439","Winter Wheat",7882.3,"08071","Las Animas County","CO","COLORADO",1.2,9458.76
+"440","Winter Wheat",112022,"08073","Lincoln County","CO","COLORADO",1.2,134426.4
+"441","Millet",47064,"08073","Lincoln County","CO","COLORADO",1.3,61183.2
+"442","Sorghum",44448.9,"08073","Lincoln County","CO","COLORADO",1.3,57783.57
+"443","Corn",29260.5,"08073","Lincoln County","CO","COLORADO",1.7,49742.85
+"444","Winter Wheat",123382.8,"08075","Logan County","CO","COLORADO",1.2,148059.36
+"445","Corn",100740.8,"08075","Logan County","CO","COLORADO",1.7,171259.36
+"446","Alfalfa",39116.8,"08075","Logan County","CO","COLORADO",1.8,70410.24
+"447","Millet",36945.8,"08075","Logan County","CO","COLORADO",1.3,48029.54
+"448","Alfalfa",60971.7,"08077","Mesa County","CO","COLORADO",1.8,109749.06
+"449","Corn",5079.3,"08077","Mesa County","CO","COLORADO",1.7,8634.81
+"450","Other Hay_Non Alfalfa",3076.2,"08077","Mesa County","CO","COLORADO",1.4,4306.68
+"451","Alfalfa",85.8,"08079","Mineral County","CO","COLORADO",1.8,154.44
+"452","Other Hay_Non Alfalfa",18.5,"08079","Mineral County","CO","COLORADO",1.4,25.9
+"453","Alfalfa",41556.7,"08081","Moffat County","CO","COLORADO",1.8,74802.06
+"454","Other Hay_Non Alfalfa",11063.7,"08081","Moffat County","CO","COLORADO",1.4,15489.18
+"455","Winter Wheat",10256.6,"08081","Moffat County","CO","COLORADO",1.2,12307.92
+"456","Alfalfa",47665.4,"08083","Montezuma County","CO","COLORADO",1.8,85797.72
+"457","Winter Wheat",11699.3,"08083","Montezuma County","CO","COLORADO",1.2,14039.16
+"458","Dry Beans",8100.9,"08083","Montezuma County","CO","COLORADO",1.3,10531.17
+"459","Other Hay_Non Alfalfa",4880.5,"08083","Montezuma County","CO","COLORADO",1.4,6832.7
+"460","Alfalfa",61951.1,"08085","Montrose County","CO","COLORADO",1.8,111511.98
+"461","Corn",16641.8,"08085","Montrose County","CO","COLORADO",1.7,28291.06
+"462","Other Hay_Non Alfalfa",12225,"08085","Montrose County","CO","COLORADO",1.4,17115
+"463","Dry Beans",9154.4,"08085","Montrose County","CO","COLORADO",1.3,11900.72
+"464","Corn",83348,"08087","Morgan County","CO","COLORADO",1.7,141691.6
+"465","Winter Wheat",62424.8,"08087","Morgan County","CO","COLORADO",1.2,74909.76
+"466","Alfalfa",32052.2,"08087","Morgan County","CO","COLORADO",1.8,57693.96
+"467","Alfalfa",39361.6,"08089","Otero County","CO","COLORADO",1.8,70850.88
+"468","Corn",12264.8,"08089","Otero County","CO","COLORADO",1.7,20850.16
+"469","Sorghum",6405.9,"08089","Otero County","CO","COLORADO",1.3,8327.67
+"470","Other Hay_Non Alfalfa",6703.2,"08091","Ouray County","CO","COLORADO",1.4,9384.48
+"471","Alfalfa",4609.4,"08091","Ouray County","CO","COLORADO",1.8,8296.92
+"472","Other Hay_Non Alfalfa",290,"08093","Park County","CO","COLORADO",1.4,406
+"473","Alfalfa",30,"08093","Park County","CO","COLORADO",1.8,54
+"474","Corn",130003.7,"08095","Phillips County","CO","COLORADO",1.7,221006.29
+"475","Winter Wheat",97974.4,"08095","Phillips County","CO","COLORADO",1.2,117569.28
+"476","Millet",25506,"08095","Phillips County","CO","COLORADO",1.3,33157.8
+"477","Alfalfa",3877.9,"08097","Pitkin County","CO","COLORADO",1.8,6980.22
+"478","Winter Wheat",111240.7,"08099","Prowers County","CO","COLORADO",1.2,133488.84
+"479","Alfalfa",57663.2,"08099","Prowers County","CO","COLORADO",1.8,103793.76
+"480","Sorghum",42254.5,"08099","Prowers County","CO","COLORADO",1.3,54930.85
+"481","Corn",39455.3,"08099","Prowers County","CO","COLORADO",1.7,67074.01
+"482","Alfalfa",9651,"08101","Pueblo County","CO","COLORADO",1.8,17371.8
+"483","Corn",6464.3,"08101","Pueblo County","CO","COLORADO",1.7,10989.31
+"484","Sorghum",5430,"08101","Pueblo County","CO","COLORADO",1.3,7059
+"485","Oats",3310.6,"08101","Pueblo County","CO","COLORADO",1.5,4965.9
+"486","Dry Beans",2239.5,"08101","Pueblo County","CO","COLORADO",1.3,2911.35
+"487","Winter Wheat",2191.3,"08101","Pueblo County","CO","COLORADO",1.2,2629.56
+"488","Other Hay_Non Alfalfa",22776.3,"08103","Rio Blanco County","CO","COLORADO",1.4,31886.82
+"489","Alfalfa",15720.4,"08103","Rio Blanco County","CO","COLORADO",1.8,28296.72
+"490","Alfalfa",49960.3,"08105","Rio Grande County","CO","COLORADO",1.8,89928.54
+"491","Barley",17499.1,"08105","Rio Grande County","CO","COLORADO",1.5,26248.65
+"492","Other Hay_Non Alfalfa",7113.1,"08105","Rio Grande County","CO","COLORADO",1.4,9958.34
+"493","Alfalfa",23863.8,"08107","Routt County","CO","COLORADO",1.8,42954.84
+"494","Other Hay_Non Alfalfa",9193.8,"08107","Routt County","CO","COLORADO",1.4,12871.32
+"495","Alfalfa",37275.8,"08109","Saguache County","CO","COLORADO",1.8,67096.44
+"496","Barley",12666.3,"08109","Saguache County","CO","COLORADO",1.5,18999.45
+"497","Other Hay_Non Alfalfa",4837.1,"08109","Saguache County","CO","COLORADO",1.4,6771.94
+"498","Alfalfa",13.6,"08111","San Juan County","CO","COLORADO",1.8,24.48
+"499","Triticale",1.6,"08111","San Juan County","CO","COLORADO",1.2,1.92
+"500","Winter Wheat",1.1,"08111","San Juan County","CO","COLORADO",1.2,1.32
+"501","Alfalfa",9901,"08113","San Miguel County","CO","COLORADO",1.8,17821.8
+"502","Winter Wheat",1352.2,"08113","San Miguel County","CO","COLORADO",1.2,1622.64
+"503","Winter Wheat",69582.2,"08115","Sedgwick County","CO","COLORADO",1.2,83498.64
+"504","Corn",69438.1,"08115","Sedgwick County","CO","COLORADO",1.7,118044.77
+"505","Millet",9317.2,"08115","Sedgwick County","CO","COLORADO",1.3,12112.36
+"506","Other Hay_Non Alfalfa",401.4,"08117","Summit County","CO","COLORADO",1.4,561.96
+"507","Other Hay_Non Alfalfa",300.5,"08119","Teller County","CO","COLORADO",1.4,420.7
+"508","Alfalfa",32.9,"08119","Teller County","CO","COLORADO",1.8,59.22
+"509","Oats",18.2,"08119","Teller County","CO","COLORADO",1.5,27.3
+"510","Winter Wheat",262292.5,"08121","Washington County","CO","COLORADO",1.2,314751
+"511","Corn",146604.8,"08121","Washington County","CO","COLORADO",1.7,249228.16
+"512","Millet",90719,"08121","Washington County","CO","COLORADO",1.3,117934.7
+"513","Corn",162763.7,"08123","Weld County","CO","COLORADO",1.7,276698.29
+"514","Winter Wheat",136424.2,"08123","Weld County","CO","COLORADO",1.2,163709.04
+"515","Alfalfa",120636.9,"08123","Weld County","CO","COLORADO",1.8,217146.42
+"516","Other Hay_Non Alfalfa",53677.2,"08123","Weld County","CO","COLORADO",1.4,75148.08
+"517","Corn",254709.3,"08125","Yuma County","CO","COLORADO",1.7,433005.81
+"518","Winter Wheat",117338.8,"08125","Yuma County","CO","COLORADO",1.2,140806.56
+"519","Alfalfa",19486.7,"08125","Yuma County","CO","COLORADO",1.8,35076.06
+"520","Millet",15678.2,"08125","Yuma County","CO","COLORADO",1.3,20381.66
+"521","Alfalfa",37721,"32001","Churchill County","NV","NEVADA",3.2,120707.2
+"522","Corn",3721.6,"32001","Churchill County","NV","NEVADA",3.6,13397.76
+"523","Other Hay_Non Alfalfa",2938.5,"32001","Churchill County","NV","NEVADA",2.5,7346.25
+"524","Alfalfa",1711.3,"32003","Clark County","NV","NEVADA",3.2,5476.16
+"525","Alfalfa",4307.8,"32005","Douglas County","NV","NEVADA",3.2,13784.96
+"526","Other Hay_Non Alfalfa",2012.7,"32005","Douglas County","NV","NEVADA",2.5,5031.75
+"527","Other Hay_Non Alfalfa",83556.6,"32007","Elko County","NV","NEVADA",2.5,208891.5
+"528","Alfalfa",5455.8,"32009","Esmeralda County","NV","NEVADA",3.2,17458.56
+"529","Alfalfa",16807.7,"32011","Eureka County","NV","NEVADA",3.2,53784.64
+"530","Other Hay_Non Alfalfa",6106.7,"32011","Eureka County","NV","NEVADA",2.5,15266.75
+"531","Alfalfa",88759.9,"32013","Humboldt County","NV","NEVADA",3.2,284031.68
+"532","Other Hay_Non Alfalfa",44513.6,"32013","Humboldt County","NV","NEVADA",2.5,111284
+"533","Alfalfa",28290.6,"32015","Lander County","NV","NEVADA",3.2,90529.92
+"534","Other Hay_Non Alfalfa",4553.1,"32015","Lander County","NV","NEVADA",2.5,11382.75
+"535","Alfalfa",626.3,"32017","Lincoln County","NV","NEVADA",3.2,2004.16
+"536","Triticale",38,"32017","Lincoln County","NV","NEVADA",1.2,45.6
+"537","Alfalfa",48874.3,"32019","Lyon County","NV","NEVADA",3.2,156397.76
+"538","Other Hay_Non Alfalfa",6288.7,"32019","Lyon County","NV","NEVADA",2.5,15721.75
+"539","Triticale",2960.3,"32019","Lyon County","NV","NEVADA",1.2,3552.36
+"540","Corn",2525.5,"32019","Lyon County","NV","NEVADA",3.6,9091.8
+"541","Alfalfa",1829.6,"32021","Mineral County","NV","NEVADA",3.2,5854.72
+"542","Triticale",70.3,"32021","Mineral County","NV","NEVADA",1.2,84.36
+"543","Alfalfa",4107.9,"32023","Nye County","NV","NEVADA",3.2,13145.28
+"544","Other Hay_Non Alfalfa",1060.6,"32023","Nye County","NV","NEVADA",2.5,2651.5
+"545","Alfalfa",37894.3,"32027","Pershing County","NV","NEVADA",3.2,121261.76
+"546","Other Hay_Non Alfalfa",3206.9,"32027","Pershing County","NV","NEVADA",2.5,8017.25
+"547","Corn",2438.6,"32027","Pershing County","NV","NEVADA",3.6,8778.96
+"548","Winter Wheat",2369.6,"32027","Pershing County","NV","NEVADA",2.7,6397.92
+"549","Alfalfa",24,"32029","Storey County","NV","NEVADA",3.2,76.8
+"550","Other Hay_Non Alfalfa",4.7,"32029","Storey County","NV","NEVADA",2.5,11.75
+"551","Alfalfa",3018.3,"32031","Washoe County","NV","NEVADA",3.2,9658.56
+"552","Other Hay_Non Alfalfa",397.4,"32031","Washoe County","NV","NEVADA",2.5,993.5
+"553","Alfalfa",11387.7,"32033","White Pine County","NV","NEVADA",3.2,36440.64
+"554","Other Hay_Non Alfalfa",781,"32033","White Pine County","NV","NEVADA",2.5,1952.5
+"555","Alfalfa",24.9,"32510","Carson City","NV","NEVADA",3.2,79.68
+"556","Other Hay_Non Alfalfa",8.2,"32510","Carson City","NV","NEVADA",2.5,20.5
+"557","Triticale",7.3,"32510","Carson City","NV","NEVADA",1.2,8.76
+"558","Alfalfa",811.1,"35001","Bernalillo County","NM","NEW MEXICO",2.4,1946.64
+"559","Other Hay_Non Alfalfa",64.5,"35001","Bernalillo County","NM","NEW MEXICO",1.2,77.4
+"560","Alfalfa",107.6,"35003","Catron County","NM","NEW MEXICO",2.4,258.24
+"561","Winter Wheat",8.7,"35003","Catron County","NM","NEW MEXICO",1.9,16.53
+"562","Alfalfa",27473.3,"35005","Chaves County","NM","NEW MEXICO",2.4,65935.92
+"563","Corn",6885.8,"35005","Chaves County","NM","NEW MEXICO",1.5,10328.7
+"564","Dbl Crop WinWht_Corn",6673.6,"35005","Chaves County","NM","NEW MEXICO",NA,NA
+"565","Pecans",3569,"35005","Chaves County","NM","NEW MEXICO",5,17845
+"566","Other Hay_Non Alfalfa",1811.6,"35005","Chaves County","NM","NEW MEXICO",1.2,2173.92
+"567","Alfalfa",13059.9,"35007","Colfax County","NM","NEW MEXICO",2.4,31343.76
+"568","Other Hay_Non Alfalfa",5141.1,"35007","Colfax County","NM","NEW MEXICO",1.2,6169.32
+"569","Winter Wheat",184293.6,"35009","Curry County","NM","NEW MEXICO",1.9,350157.84
+"570","Sorghum",57319.8,"35009","Curry County","NM","NEW MEXICO",2.8,160495.44
+"571","Corn",19051.4,"35009","Curry County","NM","NEW MEXICO",1.5,28577.1
+"572","Dbl Crop WinWht_Sorghum",12153.6,"35009","Curry County","NM","NEW MEXICO",NA,NA
+"573","Alfalfa",8120.3,"35011","De Baca County","NM","NEW MEXICO",2.4,19488.72
+"574","Winter Wheat",3460.5,"35011","De Baca County","NM","NEW MEXICO",1.9,6574.95
+"575","Pecans",33161.9,"35013","Do?a Ana County","NM","NEW MEXICO",5,165809.5
+"576","Alfalfa",14997,"35013","Do?a Ana County","NM","NEW MEXICO",2.4,35992.8
+"577","Cotton",11152.2,"35013","Do?a Ana County","NM","NEW MEXICO",1.4,15613.08
+"578","Corn",4623.8,"35013","Do?a Ana County","NM","NEW MEXICO",1.5,6935.7
+"579","Alfalfa",24783.2,"35015","Eddy County","NM","NEW MEXICO",2.4,59479.68
+"580","Cotton",7474.2,"35015","Eddy County","NM","NEW MEXICO",1.4,10463.88
+"581","Pecans",3389.5,"35015","Eddy County","NM","NEW MEXICO",5,16947.5
+"582","Corn",1938.2,"35015","Eddy County","NM","NEW MEXICO",1.5,2907.3
+"583","Alfalfa",1335.9,"35017","Grant County","NM","NEW MEXICO",2.4,3206.16
+"584","Alfalfa",2549.3,"35019","Guadalupe County","NM","NEW MEXICO",2.4,6118.32
+"585","Winter Wheat",2110.5,"35021","Harding County","NM","NEW MEXICO",1.9,4009.95
+"586","Alfalfa",946.7,"35021","Harding County","NM","NEW MEXICO",2.4,2272.08
+"587","Dbl Crop WinWht_Sorghum",211.9,"35021","Harding County","NM","NEW MEXICO",NA,NA
+"588","Alfalfa",5592.3,"35023","Hidalgo County","NM","NEW MEXICO",2.4,13421.52
+"589","Corn",2487.9,"35023","Hidalgo County","NM","NEW MEXICO",1.5,3731.85
+"590","Cotton",1227.4,"35023","Hidalgo County","NM","NEW MEXICO",1.4,1718.36
+"591","Barley",415.7,"35023","Hidalgo County","NM","NEW MEXICO",0.8,332.56
+"592","Cotton",26507.2,"35025","Lea County","NM","NEW MEXICO",1.4,37110.08
+"593","Winter Wheat",18577.5,"35025","Lea County","NM","NEW MEXICO",1.9,35297.25
+"594","Corn",6349.4,"35025","Lea County","NM","NEW MEXICO",1.5,9524.1
+"595","Alfalfa",6342,"35025","Lea County","NM","NEW MEXICO",2.4,15220.8
+"596","Alfalfa",319.4,"35027","Lincoln County","NM","NEW MEXICO",2.4,766.56
+"597","Pecans",27.1,"35027","Lincoln County","NM","NEW MEXICO",5,135.5
+"598","Alfalfa",62,"35028","Los Alamos County","NM","NEW MEXICO",2.4,148.8
+"599","Other Hay_Non Alfalfa",44.5,"35028","Los Alamos County","NM","NEW MEXICO",1.2,53.4
+"600","Alfalfa",8407.4,"35029","Luna County","NM","NEW MEXICO",2.4,20177.76
+"601","Cotton",4640.7,"35029","Luna County","NM","NEW MEXICO",1.4,6496.98
+"602","Triticale",3712.2,"35029","Luna County","NM","NEW MEXICO",1.2,4454.64
+"603","Pecans",1419.1,"35029","Luna County","NM","NEW MEXICO",5,7095.5
+"604","Corn",1097.7,"35029","Luna County","NM","NEW MEXICO",1.5,1646.55
+"605","Dry Beans",899.6,"35029","Luna County","NM","NEW MEXICO",1.9,1709.24
+"606","Winter Wheat",887.8,"35029","Luna County","NM","NEW MEXICO",1.9,1686.82
+"607","Winter Wheat",9.6,"35031","McKinley County","NM","NEW MEXICO",1.9,18.24
+"608","Other Hay_Non Alfalfa",5827.2,"35033","Mora County","NM","NEW MEXICO",1.2,6992.64
+"609","Alfalfa",3663.5,"35033","Mora County","NM","NEW MEXICO",2.4,8792.4
+"610","Alfalfa",733.5,"35035","Otero County","NM","NEW MEXICO",2.4,1760.4
+"611","Pecans",301.1,"35035","Otero County","NM","NEW MEXICO",5,1505.5
+"612","Winter Wheat",119686.8,"35037","Quay County","NM","NEW MEXICO",1.9,227404.92
+"613","Sorghum",20278.6,"35037","Quay County","NM","NEW MEXICO",2.8,56780.08
+"614","Other Hay_Non Alfalfa",18126.7,"35039","Rio Arriba County","NM","NEW MEXICO",1.2,21752.04
+"615","Alfalfa",12520.6,"35039","Rio Arriba County","NM","NEW MEXICO",2.4,30049.44
+"616","Winter Wheat",112854.4,"35041","Roosevelt County","NM","NEW MEXICO",1.9,214423.36
+"617","Other Hay_Non Alfalfa",58903.2,"35041","Roosevelt County","NM","NEW MEXICO",1.2,70683.84
+"618","Sorghum",50935,"35041","Roosevelt County","NM","NEW MEXICO",2.8,142618
+"619","Corn",24921.5,"35041","Roosevelt County","NM","NEW MEXICO",1.5,37382.25
+"620","Dbl Crop WinWht_Sorghum",10489.5,"35041","Roosevelt County","NM","NEW MEXICO",NA,NA
+"621","Alfalfa",4753.7,"35043","Sandoval County","NM","NEW MEXICO",2.4,11408.88
+"622","Alfalfa",29025.2,"35045","San Juan County","NM","NEW MEXICO",2.4,69660.48
+"623","Corn",13086.4,"35045","San Juan County","NM","NEW MEXICO",1.5,19629.6
+"624","Dry Beans",10933.8,"35045","San Juan County","NM","NEW MEXICO",1.9,20774.22
+"625","Winter Wheat",8199.5,"35045","San Juan County","NM","NEW MEXICO",1.9,15579.05
+"626","Alfalfa",1940.6,"35047","San Miguel County","NM","NEW MEXICO",2.4,4657.44
+"627","Other Hay_Non Alfalfa",787.3,"35047","San Miguel County","NM","NEW MEXICO",1.2,944.76
+"628","Winter Wheat",560.2,"35047","San Miguel County","NM","NEW MEXICO",1.9,1064.38
+"629","Corn",4560,"35049","Santa Fe County","NM","NEW MEXICO",1.5,6840
+"630","Alfalfa",4074.9,"35049","Santa Fe County","NM","NEW MEXICO",2.4,9779.76
+"631","Sorghum",819.7,"35049","Santa Fe County","NM","NEW MEXICO",2.8,2295.16
+"632","Alfalfa",2173.9,"35051","Sierra County","NM","NEW MEXICO",2.4,5217.36
+"633","Corn",1018.8,"35051","Sierra County","NM","NEW MEXICO",1.5,1528.2
+"634","Pecans",512.2,"35051","Sierra County","NM","NEW MEXICO",5,2561
+"635","Winter Wheat",258.4,"35051","Sierra County","NM","NEW MEXICO",1.9,490.96
+"636","Alfalfa",5572.3,"35053","Socorro County","NM","NEW MEXICO",2.4,13373.52
+"637","Alfalfa",10588.4,"35055","Taos County","NM","NEW MEXICO",2.4,25412.16
+"638","Other Hay_Non Alfalfa",9597.9,"35055","Taos County","NM","NEW MEXICO",1.2,11517.48
+"639","Alfalfa",12998.3,"35057","Torrance County","NM","NEW MEXICO",2.4,31195.92
+"640","Corn",6215.3,"35057","Torrance County","NM","NEW MEXICO",1.5,9322.95
+"641","Dry Beans",741,"35057","Torrance County","NM","NEW MEXICO",1.9,1407.9
+"642","Winter Wheat",30859.7,"35059","Union County","NM","NEW MEXICO",1.9,58633.43
+"643","Corn",16525.9,"35059","Union County","NM","NEW MEXICO",1.5,24788.85
+"644","Sorghum",5504.9,"35059","Union County","NM","NEW MEXICO",2.8,15413.72
+"645","Dbl Crop WinWht_Sorghum",3738.5,"35059","Union County","NM","NEW MEXICO",NA,NA
+"646","Dbl Crop WinWht_Corn",3374.4,"35059","Union County","NM","NEW MEXICO",NA,NA
+"647","Alfalfa",5613.5,"35061","Valencia County","NM","NEW MEXICO",2.4,13472.4
+"648","Alfalfa",26849.3,"49001","Beaver County","UT","UTAH",2.1,56383.53
+"649","Corn",2934.7,"49001","Beaver County","UT","UTAH",2.1,6162.87
+"650","Alfalfa",84752.8,"49003","Box Elder County","UT","UTAH",2.1,177980.88
+"651","Winter Wheat",67697.2,"49003","Box Elder County","UT","UTAH",1.4,94776.08
+"652","Other Hay_Non Alfalfa",23294.1,"49003","Box Elder County","UT","UTAH",1.9,44258.79
+"653","Corn",17274.5,"49003","Box Elder County","UT","UTAH",2.1,36276.45
+"654","Alfalfa",77902.8,"49005","Cache County","UT","UTAH",2.1,163595.88
+"655","Winter Wheat",23794,"49005","Cache County","UT","UTAH",1.4,33311.6
+"656","Other Hay_Non Alfalfa",18197.9,"49005","Cache County","UT","UTAH",1.9,34576.01
+"657","Corn",9065.7,"49005","Cache County","UT","UTAH",2.1,19037.97
+"658","Barley",8431.9,"49005","Cache County","UT","UTAH",1.4,11804.66
+"659","Alfalfa",9393.7,"49007","Carbon County","UT","UTAH",2.1,19726.77
+"660","Other Hay_Non Alfalfa",3291.7,"49009","Daggett County","UT","UTAH",1.9,6254.23
+"661","Alfalfa",557.5,"49009","Daggett County","UT","UTAH",2.1,1170.75
+"662","Alfalfa",6819.3,"49011","Davis County","UT","UTAH",2.1,14320.53
+"663","Winter Wheat",1735.8,"49011","Davis County","UT","UTAH",1.4,2430.12
+"664","Corn",1326.8,"49011","Davis County","UT","UTAH",2.1,2786.28
+"665","Other Hay_Non Alfalfa",1259,"49011","Davis County","UT","UTAH",1.9,2392.1
+"666","Other Hay_Non Alfalfa",38625.1,"49013","Duchesne County","UT","UTAH",1.9,73387.69
+"667","Alfalfa",27083,"49013","Duchesne County","UT","UTAH",2.1,56874.3
+"668","Corn",6567.8,"49013","Duchesne County","UT","UTAH",2.1,13792.38
+"669","Alfalfa",43414.3,"49015","Emery County","UT","UTAH",2.1,91170.03
+"670","Alfalfa",15142.9,"49017","Garfield County","UT","UTAH",2.1,31800.09
+"671","Alfalfa",8502.1,"49019","Grand County","UT","UTAH",2.1,17854.41
+"672","Alfalfa",43709.2,"49021","Iron County","UT","UTAH",2.1,91789.32
+"673","Corn",5272.1,"49021","Iron County","UT","UTAH",2.1,11071.41
+"674","Alfalfa",20793.7,"49023","Juab County","UT","UTAH",2.1,43666.77
+"675","Winter Wheat",3359.9,"49023","Juab County","UT","UTAH",1.4,4703.86
+"676","Corn",1947.5,"49023","Juab County","UT","UTAH",2.1,4089.75
+"677","Other Hay_Non Alfalfa",1673.7,"49023","Juab County","UT","UTAH",1.9,3180.03
+"678","Alfalfa",2957.8,"49025","Kane County","UT","UTAH",2.1,6211.38
+"679","Alfalfa",79716.5,"49027","Millard County","UT","UTAH",2.1,167404.65
+"680","Corn",11001.4,"49027","Millard County","UT","UTAH",2.1,23102.94
+"681","Other Hay_Non Alfalfa",9759.3,"49027","Millard County","UT","UTAH",1.9,18542.67
+"682","Barley",3715.1,"49027","Millard County","UT","UTAH",1.4,5201.14
+"683","Alfalfa",10411.2,"49029","Morgan County","UT","UTAH",2.1,21863.52
+"684","Barley",1265.9,"49029","Morgan County","UT","UTAH",1.4,1772.26
+"685","Alfalfa",11548.5,"49031","Piute County","UT","UTAH",2.1,24251.85
+"686","Other Hay_Non Alfalfa",1132.4,"49031","Piute County","UT","UTAH",1.9,2151.56
+"687","Alfalfa",9819.2,"49033","Rich County","UT","UTAH",2.1,20620.32
+"688","Other Hay_Non Alfalfa",8997.2,"49033","Rich County","UT","UTAH",1.9,17094.68
+"689","Winter Wheat",15073.5,"49035","Salt Lake County","UT","UTAH",1.4,21102.9
+"690","Alfalfa",2866.7,"49035","Salt Lake County","UT","UTAH",2.1,6020.07
+"691","Winter Wheat",39631.4,"49037","San Juan County","UT","UTAH",1.4,55483.96
+"692","Alfalfa",5364.6,"49037","San Juan County","UT","UTAH",2.1,11265.66
+"693","Alfalfa",52981.7,"49039","Sanpete County","UT","UTAH",2.1,111261.57
+"694","Other Hay_Non Alfalfa",34581.5,"49039","Sanpete County","UT","UTAH",1.9,65704.85
+"695","Corn",3294.3,"49039","Sanpete County","UT","UTAH",2.1,6918.03
+"696","Alfalfa",33325.8,"49041","Sevier County","UT","UTAH",2.1,69984.18
+"697","Corn",6753.5,"49041","Sevier County","UT","UTAH",2.1,14182.35
+"698","Alfalfa",6945.8,"49043","Summit County","UT","UTAH",2.1,14586.18
+"699","Other Hay_Non Alfalfa",1045.5,"49043","Summit County","UT","UTAH",1.9,1986.45
+"700","Alfalfa",11363.9,"49045","Tooele County","UT","UTAH",2.1,23864.19
+"701","Winter Wheat",1617.7,"49045","Tooele County","UT","UTAH",1.4,2264.78
+"702","Other Hay_Non Alfalfa",1130,"49045","Tooele County","UT","UTAH",1.9,2147
+"703","Alfalfa",31014.9,"49047","Uintah County","UT","UTAH",2.1,65131.29
+"704","Other Hay_Non Alfalfa",13317.7,"49047","Uintah County","UT","UTAH",1.9,25303.63
+"705","Corn",3706.9,"49047","Uintah County","UT","UTAH",2.1,7784.49
+"706","Alfalfa",42014.1,"49049","Utah County","UT","UTAH",2.1,88229.61
+"707","Winter Wheat",29341.4,"49049","Utah County","UT","UTAH",1.4,41077.96
+"708","Corn",7839.6,"49049","Utah County","UT","UTAH",2.1,16463.16
+"709","Other Hay_Non Alfalfa",3953.3,"49049","Utah County","UT","UTAH",1.9,7511.27
+"710","Alfalfa",6127.9,"49051","Wasatch County","UT","UTAH",2.1,12868.59
+"711","Alfalfa",7913.7,"49053","Washington County","UT","UTAH",2.1,16618.77
+"712","Corn",686.5,"49053","Washington County","UT","UTAH",2.1,1441.65
+"713","Alfalfa",13382.6,"49055","Wayne County","UT","UTAH",2.1,28103.46
+"714","Alfalfa",18482.1,"49057","Weber County","UT","UTAH",2.1,38812.41
+"715","Other Hay_Non Alfalfa",5616.8,"49057","Weber County","UT","UTAH",1.9,10671.92
+"716","Corn",3773.6,"49057","Weber County","UT","UTAH",2.1,7924.56
+"717","Winter Wheat",1814.5,"49057","Weber County","UT","UTAH",1.4,2540.3
